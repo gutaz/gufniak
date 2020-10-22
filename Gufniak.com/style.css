@@ -1,0 +1,85 @@
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 0px dotted red;
+  width: 430px;
+  background: Black;
+}
+  img {
+  width: 100px;
+  border: 5px white;
+  padding: 50px;
+  }
+ h1 {
+   font-family:  Calibri;
+   font-size: 50pt;
+   margin: 10px;
+   text-decoration: ;
+   width: 370px;
+   height: 70px;
+   border: 5px ;
+   padding: 20px;
+   background: White;
+   color: red;
+ }
+ 
+ h3 {
+   font-family:  Calibri;
+   font-size: 20pt;
+   margin: 10px;
+   text-decoration: ;
+   color: red;
+ }
+ 
+ h2 {
+   font-family:  Calibri;
+   font-size: 20pt;
+   margin: 10px;
+   text-decoration: ;
+   color: red;
+ }
+ 
+  p {
+    font-family: Tacoma;
+   font-size: 15pt;
+   margin: 10px;
+   text-decoration: ;
+   color: red;
+  }
+  
+   a {
+   font-family: Impact;
+   font-size: 15pt;
+   margin: 10px;
+   text-decoration: none;
+   color: blue;
+   text-align: center;
+   overflow: hidden;
+   background: none;
+ }
+ 
+ /*Nieodwiedzony link*/
+a:link
+{
+color: aqua;
+}
+
+/*Odwiedzony link*/
+a:visited
+{
+color: darkblue;
+}
+
+/*link po najechaniu*/
+a:hover
+{
+color: green;
+}
+
+ div_2 {
+  text-align: center;
+  overflow: hidden;
+  border: 3px dotted white;
+  background: white;
+  
+ }
